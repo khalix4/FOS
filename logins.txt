@@ -1,0 +1,12 @@
+Admin Login
+
+Username; admin, password; admin123
+
+
+Vendor Login
+
+Username; MunchBox,, Password; munchbox
+
+Username; omega, pasword; omega
+
+Admin LoginUsername; Nabis, password; nabis
